@@ -1,0 +1,61 @@
+.album {
+    max-width: 1000px;
+    margin: 50px auto;
+
+}
+
+.album-title {
+    font-size: 35px;
+    line-height: 40px;
+    font-weight: 500;
+    margin-bottom: 10px;
+
+}
+
+.album-info {
+    font-size: 25px;
+    line-height: 30px;
+    font-weight: 500;
+    margin-bottom: 30px;
+
+
+}
+
+.album-images {
+    display: flex;
+    justify-content: space-around;
+    max-width: 500px;
+    flex-wrap: wrap;
+
+
+}
+
+.album-img {
+    padding: 0;
+    margin: 0;
+    border: none;
+    outline: none;
+    background: none;
+    cursor: pointer;
+    display: block;
+    margin-bottom: 15px;
+
+}
+
+.album-btn {
+    margin-top: 20px;
+    max-width: 500px;
+    text-align: center;
+
+}
+
+.album-btn button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: blue;
+    font-size: 15px;
+    cursor: pointer;
+    font-weight: 700;
+
+}

@@ -1,0 +1,46 @@
+.photo {
+    max-width: 1000px;
+    margin: 50px auto;
+
+}
+
+
+.title {
+    font-size: 35px;
+    line-height: 40px;
+    font-weight: 500;
+    margin-bottom: 30px;
+
+
+}
+
+.photo-block {
+    display: flex;
+
+}
+
+.photo-img {
+    margin-right: 40px;
+
+}
+
+.photo-name {
+    margin: 10px 0 20px;
+    font-size: 25px;
+    line-height: 30px;
+    font-weight: 500;
+
+}
+
+.photo-album button {
+    font-size: 16px;
+    line-height: 22px;
+    background-color: transparent;
+    color: blue;
+    outline: none;
+    cursor: pointer;
+    padding: 0;
+    margin: 0;
+    border: none;
+
+}
